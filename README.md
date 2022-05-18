@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bernardayo
-- 👀 I’m interested in pythong
+- 👀 I’m interested in python
 - 🌱 I’m currently learning python
 
 <!---
